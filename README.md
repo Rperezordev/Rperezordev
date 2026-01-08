@@ -75,7 +75,7 @@ Mi ruta de aprendizaje incluye formación reglada y especialización autodidacta
 | :--- | :--- | :--- |
 | **Grado Superior en Desarrollo de Aplicaciones Web** | ILERNA | *En curso (2023-2026)* |
 | **Python desde Cero** | MoureDev Pro | 2025 |
-| **Git y GitHub: Control de Versiones** | MoureDev Pro | 2025 |
+| **Git y GitHub: Control de Versiones** | MoureDev Pro | 2026 |
 | **Fundamentos en Redes Informáticas** | Contando Bits | 2025 |
 
 ---
