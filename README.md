@@ -11,17 +11,14 @@
 </div>
 
 ---
-Actualmente estoy cursando el **Grado Superior en Desarrollo de Aplicaciones Web (DAW)**. Me considero una persona autodidacta, combinando mi formación académica con cursos intensivos, por lo que sigo en constante formación.
+Actualmente estoy cursando el **Grado Superior en Desarrollo de Aplicaciones Web (DAW)**. Me considero una persona autodidacta y proactiva, a día de hoy voy combinando mi vida laboral con mis estudios y cursos que realizo para seguir creciendo en el mundo del desarrollo.
 
-* 🔐 Mi hobby es la **Ciberseguridad**, me apasiona practicarla y entender cómo funciona.
-* 📦 Actualmente compagino mis estudios con mi trabajo en **Amazon Fulfillment**, reforzando mi disciplina y gestión del tiempo.
-* 🤝 **Team Player**: Me caracterizo por fomentar el buen ambiente y la colaboración fluida en el equipo.
-* 🔭 Ahora mismo estoy profundizando en **Python** y el desarrollo Backend.
+* Mi hobby es la Ciberseguridad, me apasiona practicarla y entender cómo funciona.
+* Actualmente compagino mis estudios con mi trabajo en Amazon Fulfillment, reforzando mi disciplina y gestión del tiempo.
+* Team Player: Me caracterizo por fomentar el buen ambiente y la colaboración fluida en el equipo.
+* Ahora mismo estoy profundizando en Python y el desarrollo Backend.
 
-
----
-
-### 🛠️ Tech Stack & Herramientas
+## 🛠️ Tech Stack & Herramientas
 
 Aquí puedes ver las tecnologías con las que trabajo y sigo aprendiendo día a día (haz clic para ver su web oficial):
 
@@ -65,9 +62,7 @@ Aquí puedes ver las tecnologías con las que trabajo y sigo aprendiendo día a 
   </a>
 </div>
 
----
-
-### 📜 Certificaciones y Formación
+## 📜 Certificaciones y Formación
 
 Mi ruta de aprendizaje incluye formación reglada y especialización autodidacta:
 
@@ -87,5 +82,11 @@ Si quieres contactar conmigo para colaborar o charlar:
 <p align="center">
   <a href="mailto:rafapodaw@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/34611129294">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="https://www.linkedin.com/in/rafael-pérez-orozco-a3556833a" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
