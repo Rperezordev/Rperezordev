@@ -17,7 +17,7 @@
 
 ---
 
-## 👨‍💻 Sobre mí..
+##  Sobre mí..
 
 Me interesa entender **cómo funcionan las aplicaciones, cómo se construyen
 y qué ocurre cuando algo falla en su seguridad**.
@@ -31,7 +31,7 @@ He aprobado todas las asignaturas de DAW y tengo pendientes las prácticas
 para obtener el título. Aquí comparto lo que voy haciendo y lo que descubro
 por el camino.
 
-## 🚀 Qué encontrarás por aquí
+##  Qué encontrarás por aquí
 
 Estoy organizando mi trabajo en dos espacios:
 
@@ -62,7 +62,7 @@ Un espacio para convertir ideas en código, explicar mis decisiones y mejorar ca
 </tr>
 </table>
 
-## 🧰 Tecnologías que he utilizado
+##  Tecnologías que he utilizado
 
 Durante mi formación en desarrollo web y programación:
 
@@ -77,7 +77,7 @@ Durante mi formación en desarrollo web y programación:
 </p>
 
 
-## 🌱 Ahora estoy…
+##  Ahora estoy…
 
 - Profundizando en **hacking ético y pentesting**.
 - Reuniendo mis laboratorios y mejorando sus explicaciones.
@@ -88,7 +88,7 @@ Durante mi formación en desarrollo web y programación:
 
 <div align="center">
 
-### Compartir también forma parte de aprender 🤝
+### Compartir también forma parte de aprender 
 
 Comparto mis proyectos y avances en [LinkedIn](https://www.linkedin.com/in/rafael-pérez-orozco).
 
