@@ -1,101 +1,97 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E91E8&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Rafael+P%C3%A9rez+Orozco;Desarrollador+Web+Junior" alt="Hola, soy Rafael Pérez Orozco. Desarrollador Web Junior." />
+
+# ¡Hola! Soy Rafael Pérez Orozco 
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=2E91E8&center=true&vCenter=true&width=650&height=55&lines=Desarrollo+web+%C2%B7+Ciberseguridad;Aprendiendo+hacking+%C3%A9tico;Construir%2C+comprender+y+compartir" alt="Desarrollo web y ciberseguridad. Aprendiendo hacking ético. Construir, comprender y compartir." />
+
+**📍 Sevilla, España**
+
+<a href="https://www.linkedin.com/in/rafael-pérez-orozco">
+  <img src="https://img.shields.io/badge/LinkedIn-Conectamos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conectar con Rafael en LinkedIn" />
+</a>
+<a href="mailto:rafapodaw@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Hablamos-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar un correo a Rafael" />
+</a>
+
 </div>
+
+---
+
+## 👨‍💻 Sobre mí..
+
+Me interesa entender **cómo funcionan las aplicaciones, cómo se construyen
+y qué ocurre cuando algo falla en su seguridad**.
+
+Mi base está en el **Desarrollo de Aplicaciones Web** y actualmente estoy
+centrando mi aprendizaje en la **ciberseguridad y el hacking ético**, siguiendo
+la formación de **Mario Álvarez** en
+[El Rincón del Hacker](https://elrincondelhacker.es/).
+
+He aprobado todas las asignaturas de DAW y tengo pendientes las prácticas
+para obtener el título. Aquí comparto lo que voy haciendo y lo que descubro
+por el camino.
+
+## 🚀 Qué encontrarás por aquí
+
+Estoy organizando mi trabajo en dos espacios:
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ Ciberseguridad
+
+**Mi foco de aprendizaje actual.**
+
+Laboratorios de pentesting, notas técnicas y explicaciones de las prácticas que voy realizando.
+
+Quiero contar algo más que comandos: qué intento comprobar, cómo interpreto los resultados y qué aprendo de cada ejercicio.
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 Desarrollo
+
+**Mi base para seguir construyendo.**
+
+Ejercicios y proyectos de desarrollo web y programación para consolidar lo aprendido en DAW.
+
+Un espacio para convertir ideas en código, explicar mis decisiones y mejorar cada proyecto paso a paso.
+
+</td>
+</tr>
+</table>
+
+## 🧰 Tecnologías que he utilizado
+
+Durante mi formación en desarrollo web y programación:
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+
+## 🌱 Ahora estoy…
+
+- Profundizando en **hacking ético y pentesting**.
+- Reuniendo mis laboratorios y mejorando sus explicaciones.
+- Conectando mis conocimientos de desarrollo con la seguridad.
+- Preparando mi **B2 de inglés**.
+
+---
 
 <div align="center">
-  <h3>📍 Sevilla, España</h3>
+
+### Compartir también forma parte de aprender 🤝
+
+Comparto mis proyectos y avances en [LinkedIn](https://www.linkedin.com/in/rafael-pérez-orozco).
+
+Aquí encontrarás resultados, errores, correcciones y aprendizajes.
+
 </div>
-
-<div align="left">
-  <h3><strong>Junior Web Developer</strong></h3>
-</div>
-
-**Formándome en ciberseguridad y hacking ético, con base en desarrollo web.**
-
-Este GitHub es mi espacio para compartir conocimientos, documentar mis
-prácticas y mostrar los proyectos que voy desarrollando.
-
-He aprobado todas las asignaturas del **Grado Superior en Desarrollo de
-Aplicaciones Web**. Actualmente centro mi aprendizaje en la **ciberseguridad y el
-pentesting**.
-
-Me interesa comprender cómo se construyen las aplicaciones, cómo pueden
-fallar y qué podemos hacer para mejorar su seguridad.
-
----
-
-## Ciberseguridad y pentesting
-
-Es el área principal de mi aprendizaje actual. Estoy realizando el
-**Curso de Hacking Ético y Ciberseguridad de Mario Álvarez —El Pingüino—**,
-en [El Rincón del Hacker](https://elrincondelhacker.es/).
-
-En mis prácticas de laboratorio he documentado:
-
-- **Reconocimiento de puertos y servicios** con Nmap.
-- **Análisis de metadatos** con ExifTool.
-- **Pruebas de credenciales y acceso** con Hydra y SSH.
-- **Revisión de permisos y escalada de privilegios** en Linux.
-
-Mi objetivo es explicar cada ejercicio con contexto,
-procedimiento, evidencias y conclusiones: qué he observado, por qué he
-seguido cada paso y qué he aprendido.
-
-Las prácticas corresponden a entornos de laboratorio. Cuando utilice
-guías o recursos de terceros, indicaré su procedencia.
-
-## Desarrollo web y programación
-
-Mi formación en desarrollo web complementa mi aprendizaje en seguridad.
-
-Estas son las tecnologías y herramientas que he utilizado durante mi formación:
-
-| Área | Tecnologías y herramientas |
-| :--- | :--- |
-| Desarrollo web | HTML, CSS y JavaScript |
-| Programación | Python y C# |
-| Control de versiones | Git y GitHub |
-| Entornos de trabajo | Linux, Windows y Visual Studio Code |
-
-Iré compartiendo ejercicios y proyectos con instrucciones de ejecución,
-ejemplos de uso y una explicación de las decisiones tomadas.
-
-## Formación y certificados
-
-| Formación | Centro o plataforma | Estado |
-| :--- | :--- | :--- |
-| Grado Superior en Desarrollo de Aplicaciones Web | ILERNA | Asignaturas aprobadas · prácticas pendientes |
-| Curso de Hacking Ético y Ciberseguridad | El Rincón del Hacker · Mario Álvarez | En curso |
-| Python desde Cero | MoureDev Pro | Finalizado con certificado · 2025 |
-| Git y GitHub: Control de Versiones | MoureDev Pro | Finalizado con certificado · 2026 |
-| Fundamentos en Redes Informáticas | Contando Bits | Finalizado con certificado · 2025 |
-
-**Inglés:** actualmente preparando el B2.
-
-## Qué compartiré aquí
-
-- **Laboratorios de pentesting:** procedimientos, evidencias y aprendizajes.
-- **Notas técnicas:** explicaciones y recursos relacionados con mis prácticas.
-- **Proyectos de desarrollo:** ejercicios y aplicaciones para consolidar conocimientos.
-- **Mi evolución:** dificultades encontradas, errores corregidos y próximos pasos.
-
-Distinguiré los ejercicios guiados de los proyectos propios e indicaré
-el estado de cada trabajo.
-
----
-
-## 📫 Contacto
-
-Si quieres contactar conmigo para colaborar o charlar:
-
-<p align="center">
-  <a href="mailto:rafapodaw@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://wa.me/34611129294">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-  <a href="https://www.linkedin.com/in/rafael-pérez-orozco">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Rafael Pérez Orozco" />
-  </a>
-</p> 
