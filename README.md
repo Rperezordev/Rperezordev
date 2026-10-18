@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E91E8&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Rafael+P%C3%A9rez+Orozco;Desarrollador+Web+Junior" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E91E8&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Rafael+P%C3%A9rez+Orozco;Desarrollador+Web+Junior" alt="Hola, soy Rafael Pérez Orozco. Desarrollador Web Junior." />
 </div>
 
 <div align="center">
@@ -10,83 +10,85 @@
   <h3><strong>Junior Web Developer</strong></h3>
 </div>
 
+**Formándome en ciberseguridad y hacking ético, con base en desarrollo web.**
+
+Este GitHub es mi espacio para compartir conocimientos, documentar mis
+prácticas y mostrar los proyectos que voy desarrollando.
+
+He aprobado todas las asignaturas del **Grado Superior en Desarrollo de
+Aplicaciones Web en ILERNA** y tengo pendientes las prácticas para obtener
+el título. Actualmente centro mi aprendizaje en la **ciberseguridad y el
+pentesting**.
+
+Me interesa comprender cómo se construyen las aplicaciones, cómo pueden
+fallar y qué podemos hacer para mejorar su seguridad.
+
+[LinkedIn](https://www.linkedin.com/in/rafael-pérez-orozco)
+
 ---
-Actualmente estoy cursando el **Grado Superior en Desarrollo de Aplicaciones Web (DAW)**. Me considero una persona autodidacta y proactiva, a día de hoy voy combinando mi vida laboral con mis estudios y cursos que realizo para seguir creciendo en el mundo del desarrollo.
 
-* Mi hobby es la Ciberseguridad, me apasiona practicarla y entender cómo funciona.
-* Actualmente compagino mis estudios con mi trabajo en Amazon Fulfillment, reforzando mi disciplina y gestión del tiempo.
-* Team Player: Me caracterizo por fomentar el buen ambiente y la colaboración fluida en el equipo.
-* Ahora mismo estoy profundizando en Python y el desarrollo Backend.
+## Ciberseguridad y pentesting
 
-## 🛠️ Tech Stack & Herramientas
+Es el área principal de mi aprendizaje actual. Estoy realizando el
+**Curso de Hacking Ético y Ciberseguridad de Mario Álvarez —El Pingüino—**,
+en [El Rincón del Hacker](https://elrincondelhacker.es/).
 
-Aquí puedes ver las tecnologías con las que trabajo y sigo aprendiendo día a día (haz clic para ver su web oficial):
+En mis prácticas de laboratorio he documentado:
 
-<div align="center">
+- **Reconocimiento de puertos y servicios** con Nmap.
+- **Análisis de metadatos** con ExifTool.
+- **Pruebas de credenciales y acceso** con Hydra y SSH.
+- **Revisión de permisos y escalada de privilegios** en Linux.
 
-  <a href="https://www.microsoft.com/es-es/windows" target="_blank">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  </a>
+Estoy reuniendo en esta cuenta mis prácticas anteriores y mejorando su
+documentación. Mi objetivo es explicar cada ejercicio con contexto,
+procedimiento, evidencias y conclusiones: qué he observado, por qué he
+seguido cada paso y qué he aprendido.
 
-  <br />
+Las prácticas corresponden a entornos de laboratorio. Cuando utilice
+guías o recursos de terceros, indicaré su procedencia.
 
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  </a>
-  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  </a>
-  <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  </a>
-  <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  </a>
+## Desarrollo web y programación
 
-  <br />
+Mi formación en desarrollo web complementa mi aprendizaje en seguridad.
 
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  </a>
-</div>
+Estas son las tecnologías y herramientas que he utilizado durante mi formación:
 
-## 📜 Certificaciones y Formación
+| Área | Tecnologías y herramientas |
+| :--- | :--- |
+| Desarrollo web | HTML, CSS y JavaScript |
+| Programación | Python y C# |
+| Control de versiones | Git y GitHub |
+| Entornos de trabajo | Linux, Windows y Visual Studio Code |
 
-Mi ruta de aprendizaje incluye formación reglada y especialización autodidacta:
+Iré compartiendo ejercicios y proyectos con instrucciones de ejecución,
+ejemplos de uso y una explicación de las decisiones tomadas.
 
-| Formación | Institución / Plataforma | Año |
+## Formación y certificados
+
+| Formación | Centro o plataforma | Estado |
 | :--- | :--- | :--- |
-| **Grado Superior en Desarrollo de Aplicaciones Web** | ILERNA | *En curso (2023-2026)* |
-| **Python desde Cero** | MoureDev Pro | 2025 |
-| **Git y GitHub: Control de Versiones** | MoureDev Pro | 2026 |
-| **Fundamentos en Redes Informáticas** | Contando Bits | 2025 |
+| Grado Superior en Desarrollo de Aplicaciones Web | ILERNA | Asignaturas aprobadas · prácticas pendientes |
+| Curso de Hacking Ético y Ciberseguridad | El Rincón del Hacker · Mario Álvarez | En curso |
+| Python desde Cero | MoureDev Pro | Finalizado con certificado · 2025 |
+| Git y GitHub: Control de Versiones | MoureDev Pro | Finalizado con certificado · 2026 |
+| Fundamentos en Redes Informáticas | Contando Bits | Finalizado con certificado · 2025 |
+
+**Inglés:** actualmente preparando el B2.
+
+## Qué compartiré aquí
+
+- **Laboratorios de pentesting:** procedimientos, evidencias y aprendizajes.
+- **Notas técnicas:** explicaciones y recursos relacionados con mis prácticas.
+- **Proyectos de desarrollo:** ejercicios y aplicaciones para consolidar conocimientos.
+- **Mi evolución:** dificultades encontradas, errores corregidos y próximos pasos.
+
+Distinguiré los ejercicios guiados de los proyectos propios e indicaré
+el estado de cada trabajo.
 
 ---
 
-### 📫 Contacto
+## Conectamos
 
-Si quieres contactar conmigo para colaborar o charlar:
-
-<p align="center">
-  <a href="mailto:rafapodaw@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://wa.me/34611129294">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-  <a href="https://www.linkedin.com/in/rafael-pérez-orozco-a3556833a" alt="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
+También comparto mis proyectos y avances en
+[LinkedIn](https://www.linkedin.com/in/rafael-pérez-orozco).
