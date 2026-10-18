@@ -16,8 +16,7 @@ Este GitHub es mi espacio para compartir conocimientos, documentar mis
 prácticas y mostrar los proyectos que voy desarrollando.
 
 He aprobado todas las asignaturas del **Grado Superior en Desarrollo de
-Aplicaciones Web en ILERNA** y tengo pendientes las prácticas para obtener
-el título. Actualmente centro mi aprendizaje en la **ciberseguridad y el
+Aplicaciones Web**. Actualmente centro mi aprendizaje en la **ciberseguridad y el
 pentesting**.
 
 Me interesa comprender cómo se construyen las aplicaciones, cómo pueden
@@ -40,8 +39,7 @@ En mis prácticas de laboratorio he documentado:
 - **Pruebas de credenciales y acceso** con Hydra y SSH.
 - **Revisión de permisos y escalada de privilegios** en Linux.
 
-Estoy reuniendo en esta cuenta mis prácticas anteriores y mejorando su
-documentación. Mi objetivo es explicar cada ejercicio con contexto,
+Mi objetivo es explicar cada ejercicio con contexto,
 procedimiento, evidencias y conclusiones: qué he observado, por qué he
 seguido cada paso y qué he aprendido.
 
