@@ -39,7 +39,7 @@ Estoy organizando mi trabajo en dos espacios:
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ Ciberseguridad
+### 🛡️ [Ciberseguridad](https://github.com/Rperezordev/Ciberseguridad)
 
 **Mi foco de aprendizaje actual.**
 
@@ -50,7 +50,7 @@ Quiero contar algo más que comandos: qué intento comprobar, cómo interpreto l
 </td>
 <td width="50%" valign="top">
 
-### 💻 Desarrollo
+### 💻 [Desarrollo](https://github.com/Rperezordev/Desarrollo)
 
 **Mi base para seguir construyendo.**
 
