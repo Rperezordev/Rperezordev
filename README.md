@@ -22,8 +22,6 @@ pentesting**.
 Me interesa comprender cómo se construyen las aplicaciones, cómo pueden
 fallar y qué podemos hacer para mejorar su seguridad.
 
-[LinkedIn](https://www.linkedin.com/in/rafael-pérez-orozco)
-
 ---
 
 ## Ciberseguridad y pentesting
